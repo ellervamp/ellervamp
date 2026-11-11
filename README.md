@@ -10,3 +10,5 @@
 
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+35&pause=20&color=9F0000&width=435&lines=he%E2%80%99ll+be+right+here+in+my+arms%2C;so+in+love%E2%80%A6!" alt="Typing SVG" /></a>
+<p align="right">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+35&pause=20&color=5D91C0&width=435&lines=he%E2%80%99ll+be+right+here+in+these+arms%2C;he+can%E2%80%99t+let+go%E2%80%A6!" alt="Typing SVG" /></a>
