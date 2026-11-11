@@ -7,3 +7,6 @@
 
 <br>
 <br>
+
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+35&pause=20&color=9F0000&width=435&lines=he%E2%80%99ll+be+right+here+in+my+arms%2C;so+in+love%E2%80%A6!" alt="Typing SVG" /></a>
